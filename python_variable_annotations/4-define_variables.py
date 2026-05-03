@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-""" Basic annotations - define variables """
+"""
+Define and annotate variables with specific values
+"""
 
 
-a: float = 3.14
+a: int = 1
 pi: float = 3.14
-i: int = 1
+i_understand_annotations: bool = True
 school: str = "Holberton"
