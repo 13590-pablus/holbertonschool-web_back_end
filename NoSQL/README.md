@@ -1,1 +1,1 @@
-NoSQL project tasks
+NoSQL project
